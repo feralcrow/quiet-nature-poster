@@ -1,0 +1,53 @@
+Quiet Nature Poster — visual-system skill for Cola / Claude-style agents
+Copyright (c) 2026 feralcrow
+
+This work (the skill documents: SKILL.md, references/*.md, and any derivative
+of the written rules, palettes and prompt templates in them) is licensed under
+the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+To view a copy of this license, visit:
+    https://creativecommons.org/licenses/by-nc/4.0/
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+
+In plain terms
+--------------
+You are free to:
+
+* Share  — copy and redistribute these documents, in any medium or format.
+* Adapt  — remix, transform, build on them (your own palette tables, your own
+  skill files, your own house style derived from these rules).
+
+Under the following terms:
+
+* Attribution — you must give appropriate credit and indicate if changes were
+  made. A sufficient credit line:
+
+      Quiet Nature Poster (lite) by feralcrow, CC BY-NC 4.0
+      https://github.com/feralcrow/quiet-nature-poster
+
+  Keep the credit where people will actually see it: in the file that carries
+  the rules, or in your skill's README, not buried in a commit message.
+* NonCommercial — you may not use these documents for commercial purposes.
+  Selling the rule library, packaging it inside a paid product, or gating it
+  behind a subscription is not allowed. Using the system to do paid design work
+  for a client is fine — see "What this licence does not cover" below.
+* No additional restrictions — you may not apply legal terms or technological
+  measures that restrict what others may do with the shared documents.
+
+What this licence does not cover
+--------------------------------
+* The outputs. Posters, images, prompts, titles and palette proposals you
+  generate with this system are yours. You may sell them, print them, ship them
+  in client work and license them as you like. Credit is appreciated, not
+  required.
+* Any third-party material referenced here (font names, film-stock or paper
+  references, AI model behaviour). Fonts carry their own licences — check them
+  before shipping anything commercially.
+* The photographic or artwork references that inspired the rules. They are not
+  included in this repository and are not licensed by this document.
+
+If you want a commercial licence for the rule library itself (to resell it,
+bundle it in a paid product, or use it as training data), open an issue on the
+repository or contact the author.
